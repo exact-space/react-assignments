@@ -5,10 +5,10 @@ JSON feeds
 
 You are provided with the following feeds that provide data to render a bunch of articles
 
-https://picsum.photos/v2/list?page=1
-https://picsum.photos/v2/list?page=2
-https://picsum.photos/v2/list?page=3
-
+https://picsum.photos/v2/list?page=1  
+https://picsum.photos/v2/list?page=2  
+https://picsum.photos/v2/list?page=3  
+ 
 And so on
 
 **(If you run into a CORS issue, you can perhaps try adding a proxy to your package.json)**
