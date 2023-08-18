@@ -16,7 +16,7 @@ And so on
 ## Task
 
 **Task**:
-Render a 1 column view, by using the title, field_photo_image_section and last_update to render
+Render a 1 column view, by using the `download_url` and `author` to render
 something like this
 
 ![](photo-gallery.png)
