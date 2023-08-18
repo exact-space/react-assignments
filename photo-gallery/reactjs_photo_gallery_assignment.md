@@ -27,3 +27,7 @@ items to the existing list of articles and keep doing this until you reach a pag
 more data.
 
 Next to each photo, add a thumbs up icon and a count(initialised to 0). Use fontawesome icon for thumbs up. On clicking this icon, increase the count. The count should be increase as many clicks performed.
+
+Add necessary css to make the UI looks similar to the image shown. 
+
+Please create a public git repository and push your code. Share the link for the repository with us over email.
