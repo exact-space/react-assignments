@@ -18,7 +18,7 @@ And so on
 Render a 1 column view, by using the `download_url` and `author` to render
 something like this
 
-![](photo-gallery.png)
+![](./photo-gallery.png)
 
 When the user reaches the bottom of the page, pull in data from the next page
 https://picsum.photos/v2/list?page=2 and add the new
